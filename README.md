@@ -8,6 +8,8 @@ CRYPTO ADDRESES:
 > LTC: Lfn7gHMmPCePNxuKnHahZrjDw9Qzbfss68
 > XMR: 49o4nSJs3ckbHG1KvfpELf9WgdTYhJ3FBjhVxCAJrYde24kek6rY86BERa3hdAhQNfCSgE6n1x2NJfDik2WzM8Xn2wpwzVF
 ```
+Any kind of donations are highly appreciated. Donations further motivate me to put out more free opensource work on GitHub.
+
 
 SOCIALS:
 > Telegram channel - https://t.me/prealisation
@@ -64,4 +66,3 @@ Description: Removes a user from the whitelist.
 Options:
 user_id (required): The ID of the user to remove from the whitelist.
 ```
-Any kind of donations are highly appreciated. Donations further motivate me to put out more free opensource work on GitHub.
