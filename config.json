@@ -1,0 +1,13 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "ownerid": [
+        111111111111111111111 
+    ],
+    "embedcol": "#000000",
+    "footer_text": "FOOTER_TEXT",
+    "footer_icon": "FOOTER_ICON_IMAGE_LINK",
+    "dot_emoji": "DOT_STATIC_EMOJI",
+    "success_emoji": "SUCCESS_ANIMATE_EMOJI",
+    "loading_emoji": "LOADING_ANIMATED_EMOJI",
+    "warning_emoji": "WARNING_ANIMATED_EMOJI"
+}
